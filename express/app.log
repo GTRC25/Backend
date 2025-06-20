@@ -1,0 +1,44 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/players\",\"status\":\"201\",\"responseTime\":\"1.869\"}","timestamp":"2025-06-20T11:33:37.428Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players\",\"status\":\"200\",\"responseTime\":\"1.090\"}","timestamp":"2025-06-20T11:34:04.399Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players\",\"status\":\"200\",\"responseTime\":\"0.746\"}","timestamp":"2025-06-20T11:34:08.254Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players\",\"status\":\"200\",\"responseTime\":\"0.727\"}","timestamp":"2025-06-20T11:34:08.987Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/players\",\"status\":\"201\",\"responseTime\":\"0.619\"}","timestamp":"2025-06-20T11:34:15.432Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/players\",\"status\":\"201\",\"responseTime\":\"0.474\"}","timestamp":"2025-06-20T11:34:16.075Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/players\",\"status\":\"201\",\"responseTime\":\"0.232\"}","timestamp":"2025-06-20T11:34:16.674Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players\",\"status\":\"200\",\"responseTime\":\"0.680\"}","timestamp":"2025-06-20T11:34:18.909Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an info message","timestamp":"2025-06-20T11:41:01.570Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is an error message","timestamp":"2025-06-20T11:41:01.572Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is a warning message","timestamp":"2025-06-20T11:41:01.572Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an info message","timestamp":"2025-06-20T11:41:03.036Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is an error message","timestamp":"2025-06-20T11:41:03.037Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is a warning message","timestamp":"2025-06-20T11:41:03.037Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an info message","timestamp":"2025-06-20T11:41:11.466Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is an error message","timestamp":"2025-06-20T11:41:11.468Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is a warning message","timestamp":"2025-06-20T11:41:11.468Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an info message","timestamp":"2025-06-20T11:41:38.481Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is an error message","timestamp":"2025-06-20T11:41:38.482Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is a warning message","timestamp":"2025-06-20T11:41:38.483Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players\",\"status\":\"200\",\"responseTime\":\"3.015\"}","timestamp":"2025-06-20T11:41:59.307Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players\",\"status\":\"200\",\"responseTime\":\"0.920\"}","timestamp":"2025-06-20T11:41:59.653Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players/4\",\"status\":\"404\",\"responseTime\":\"0.869\"}","timestamp":"2025-06-20T11:42:07.339Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players/4\",\"status\":\"404\",\"responseTime\":\"0.652\"}","timestamp":"2025-06-20T11:42:09.289Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players/4\",\"status\":\"404\",\"responseTime\":\"0.282\"}","timestamp":"2025-06-20T11:42:12.800Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players\",\"status\":\"200\",\"responseTime\":\"0.121\"}","timestamp":"2025-06-20T11:42:15.273Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players\",\"status\":\"200\",\"responseTime\":\"0.386\"}","timestamp":"2025-06-20T11:42:15.981Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players\",\"status\":\"200\",\"responseTime\":\"0.236\"}","timestamp":"2025-06-20T11:42:16.398Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/players\",\"status\":\"201\",\"responseTime\":\"0.211\"}","timestamp":"2025-06-20T11:42:20.400Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/players\",\"status\":\"201\",\"responseTime\":\"0.352\"}","timestamp":"2025-06-20T11:42:21.498Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/players\",\"status\":\"201\",\"responseTime\":\"0.272\"}","timestamp":"2025-06-20T11:42:22.170Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players\",\"status\":\"200\",\"responseTime\":\"0.543\"}","timestamp":"2025-06-20T11:42:24.340Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players/4\",\"status\":\"404\",\"responseTime\":\"0.616\"}","timestamp":"2025-06-20T11:42:26.847Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players/4\",\"status\":\"404\",\"responseTime\":\"0.189\"}","timestamp":"2025-06-20T11:42:27.546Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players\",\"status\":\"200\",\"responseTime\":\"0.306\"}","timestamp":"2025-06-20T11:42:31.157Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players/4\",\"status\":\"404\",\"responseTime\":\"0.631\"}","timestamp":"2025-06-20T11:42:34.596Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players/4\",\"status\":\"404\",\"responseTime\":\"0.121\"}","timestamp":"2025-06-20T11:42:35.379Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/players/3\",\"status\":\"200\",\"responseTime\":\"0.270\"}","timestamp":"2025-06-20T11:42:41.798Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an info message","timestamp":"2025-06-20T11:43:01.985Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is an error message","timestamp":"2025-06-20T11:43:01.988Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is a warning message","timestamp":"2025-06-20T11:43:01.988Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an info message","timestamp":"2025-06-20T11:43:55.969Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is an error message","timestamp":"2025-06-20T11:43:55.970Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is a warning message","timestamp":"2025-06-20T11:43:55.970Z"}
